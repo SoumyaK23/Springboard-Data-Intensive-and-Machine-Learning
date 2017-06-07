@@ -1,1 +1,6 @@
-This is the second capstone.
+Student retention in distance learning courses like the Open University, requires a different approach when compared to traditional university structure. 
+This capstone used freely available data from OU Analytics to get an insight into the demographic profile of students who withdraw from the course. 
+While it is not possible to analyze in depth, it is possible to identify the group most “at risk" as well as the date when students are more likely to withdraw. 
+The profile is based on highest education received before the start of course (Lower than A level has a higher incidence) and imd-band (lower the score, greater the risk). 
+This information allowed us to apply Logistic Regression to predict with 69% accuracy the probability of a student withdrawing from the course and we could offer some recommendations. 
+Further research can enable intervention to be more targeted to offer personalized solutions and increase student retention.
